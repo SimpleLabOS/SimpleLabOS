@@ -67,9 +67,10 @@ We built SimpleLabOS because existing solutions are overpriced and outdated. See
 
 👉 **Read Detailed Comparisons:**
 *   [vs LabStar](./comparisons/labstar-alternative.md) - *Technical deep dive.*
-<!-- *   [vs EasyRx](https://simplelabos.com/compare/easyrx-alternative) - *Easier prescription management.* -->
-<!-- *   [vs Magic Touch](https://simplelabos.com/compare/magic-touch-alternative) - *Modern cloud-native alternative.* -->
-*   [Best LIMS for Small Labs](https://simplelabos.com/compare/best-lims-small-labs) - *Ranked #1 for labs under 10 people.*
+*   [vs EasyRx](https://simplelabos.com/compare/easyrx-alternative?utm_source=github&utm_medium=readme) - *Easier prescription management.*
+*   [vs Magic Touch](https://simplelabos.com/compare/magic-touch-alternative?utm_source=github&utm_medium=readme) - *Modern cloud-native alternative.*
+*   [Best LIMS for Small Labs](https://simplelabos.com/compare/best-lims-small-labs?utm_source=github&utm_medium=readme) - *Ranked #1 for labs under 10 people.*
+*   📈 **[See the Full 2026 Software Ranking Analysis](https://simplelabos.com/blog/top-dental-lab-management-software-2026?utm_source=github&utm_medium=readme)** - *Comprehensive market review.*
 
 ### 🛠 Tech Stack
 
@@ -84,8 +85,10 @@ We pride ourselves on engineering excellence. SimpleLabOS is built with:
 
 We provide free tools for the laboratory community:
 
+*   [**Recommended Tech Stack for Small Labs**](./resources/tech-stack-for-small-labs.md) - Hardware & software guide (Scanners, Printers, PCs).
+*   [**Digital Lab Workflow Checklist**](./resources/digital-dental-lab-workflow-checklist.md) - Step-by-step technical guide.
 *   [Free Dental Lab Invoice Template](./resources/free-dental-lab-invoice-template.md) - Markdown/HTML template.
-*   [Free Invoice Generator](https://simplelabos.com/tools/invoice-generator) - Create PDF invoices online.
+*   [Free Invoice Generator](https://simplelabos.com/tools/invoice-generator?utm_source=github&utm_medium=readme) - Create PDF invoices online.
 
 ---
 
