@@ -14,13 +14,13 @@
   </p>
 
   <p align="center">
-    <a href="https://simplelabos.com"><strong>🌐 Visit Website</strong></a> •
-    <a href="https://simplelabos.com/docs"><strong>📚 Documentation</strong></a> •
-    <a href="https://simplelabos.com/blog"><strong>📝 Blog</strong></a>
+    <a href="https://simplelabos.com?utm_source=github&utm_medium=readme"><strong>🌐 Visit Website</strong></a> •
+    <a href="https://simplelabos.com/docs?utm_source=github&utm_medium=readme"><strong>📚 Documentation</strong></a> •
+    <a href="https://simplelabos.com/blog?utm_source=github&utm_medium=readme"><strong>📝 Blog</strong></a>
   </p>
 
   <p align="center">
-    <a href="https://simplelabos.com">
+    <a href="https://simplelabos.com?utm_source=github&utm_medium=batch_badge">
       <img src="https://img.shields.io/badge/Status-Operating_Normally-success?style=flat-square" alt="Status" />
     </a>
     <a href="https://twitter.com/simplelabos">
@@ -66,9 +66,9 @@ We built SimpleLabOS because existing solutions are overpriced and outdated. See
 | **Contract** | **✅ Month-to-Month** | ❌ Annual Contracts |
 
 👉 **Read Detailed Comparisons:**
-*   [vs LabStar](https://simplelabos.com/compare/labstar-alternative) - *Stop paying setup fees.*
-*   [vs EasyRx](https://simplelabos.com/compare/easyrx-alternative) - *Easier prescription management.*
-*   [vs Magic Touch](https://simplelabos.com/compare/magic-touch-alternative) - *Modern cloud-native alternative.*
+*   [vs LabStar](./comparisons/labstar-alternative.md) - *Technical deep dive.*
+<!-- *   [vs EasyRx](https://simplelabos.com/compare/easyrx-alternative) - *Easier prescription management.* -->
+<!-- *   [vs Magic Touch](https://simplelabos.com/compare/magic-touch-alternative) - *Modern cloud-native alternative.* -->
 *   [Best LIMS for Small Labs](https://simplelabos.com/compare/best-lims-small-labs) - *Ranked #1 for labs under 10 people.*
 
 ### 🛠 Tech Stack
@@ -80,11 +80,18 @@ We pride ourselves on engineering excellence. SimpleLabOS is built with:
 *   **Infrastructure**: Vercel Edge Network
 *   **Security**: AES-256 Encryption, Row Level Security (RLS)
 
+### 📚 Free Resources
+
+We provide free tools for the laboratory community:
+
+*   [Free Dental Lab Invoice Template](./resources/free-dental-lab-invoice-template.md) - Markdown/HTML template.
+*   [Free Invoice Generator](https://simplelabos.com/tools/invoice-generator) - Create PDF invoices online.
+
 ---
 
 <div align="center">
   <p>Ready to modernize your lab?</p>
-  <a href="https://simplelabos.com/signup">
+  <a href="https://simplelabos.com/signup?utm_source=github&utm_medium=readme_bottom">
     <img src="https://img.shields.io/badge/Start_Free_Trial-14_Days_Free-teal?style=for-the-badge&logo=rocket" alt="Start Free Trial" />
   </a>
 </div>
